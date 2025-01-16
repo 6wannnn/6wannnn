@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **6wannnn/6wannnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +14,12 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/its.julianjeong@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-Hi there! I'm AI model developer.  
+👋 Hi there! I'm AI model developer.  
   
 U P G R A D E . . . !  
 I'm trying to become a person who can adapt anywhere.  
 
-
-### Skills
+### 💪 Skills
 #### Platforms & Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
